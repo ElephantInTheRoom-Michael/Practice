@@ -1,0 +1,3 @@
+class Solution
+  def self.solve: (Array[int] input) -> int
+end
